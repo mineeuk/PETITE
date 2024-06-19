@@ -17,7 +17,6 @@ Reducing scan time in Positron Emission Tomography (PET) imaging while maintaini
 
 ## How to Apply LoRA in Conv3D
 Using Low-Rank Adaptation (LoRA) with Conv3D involves modifying the Conv3D layers to integrate the LoRA technique.
-[[code]](\)
 
 ### Citation
 If you found this code useful, please cite the following paper:
