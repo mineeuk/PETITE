@@ -17,6 +17,11 @@ Reducing scan time in Positron Emission Tomography (PET) imaging while maintaini
 
 ### Citation
 If you found this code useful, please cite the following paper:
-
-## References
+@InProceedings{2024cxrl,
+author = {Han, Woojung and Kim, Chanyoung and Ju, Dayun and Shim, Yumin and Hwang, Seong Jae},
+title = {Advancing Text-Driven Chest X-Ray Generation with Policy-Based Reinforcement Learning},
+booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention},
+year = {2024},
+organization = {Springer}
+}
 
