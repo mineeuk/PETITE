@@ -3,7 +3,7 @@
 **Accepted @ MICCAI 2024** \
 We will release the code soon ! 🦍
 
-[[Project Page]](http://MICV-yonsei.github.io/petite2024/) [[arXiv]](http://MICV-yonsei.github.io/petite2024/))
+[[Project Page]](http://MICV-yonsei.github.io/petite2024/) [[arXiv]](http://MICV-yonsei.github.io/petite2024/)
 
 ![STR](https://github.com/mineeuk/PETITE/assets/72694034/b36ac7cf-c85d-4764-9d66-71fe2c437350)
 
