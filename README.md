@@ -5,7 +5,8 @@ We will release the code soon ! 🦍
 
 [[Project Page]](http://MICV-yonsei.github.io/petite2024/) [[arXiv]](http://MICV-yonsei.github.io/petite2024/)
 
-![STR](https://github.com/mineeuk/PETITE/assets/72694034/b36ac7cf-c85d-4764-9d66-71fe2c437350)
+![STR](https://github.com/mineeuk/PETITE/assets/72694034/2641a7f3-facc-4eac-84cf-b96ea3c32f64)
+
 
 > **Parameter Efficient Fine Tuning for Multi-scanner PET to PET Reconstruction** \
 > International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2024 \
