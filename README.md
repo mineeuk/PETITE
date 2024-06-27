@@ -27,6 +27,5 @@ If you found this code useful, please cite the following paper:
   title     = {Parameter Efficient Fine Tuning for Multi-scanner PET to PET Reconstruction},
   booktitle = {Medical Image Computing and Computer Assisted Intervention (MICCAI)},
   month     = {June},
-  year      = {2024},
-  pages     = {?}
+  year      = {2024}
 }
